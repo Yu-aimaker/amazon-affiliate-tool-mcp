@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Amazon Affiliate Tool MCP" width="800">
+  <img src="assets/header.svg" alt="Amazon Affiliate Tool MCP" width="800" />
 </p>
 
 # 🛍️ Amazon Affiliate Tool MCP
@@ -8,7 +8,7 @@ Amazon商品URLをアフィリエイトリンクに変換するMCPサーバー
 
 ## 📝 概要
 
-このMCPサーバーは、Amazon商品のURLを受け取り、指定されたアフィリエイトタグを付与したアフィリエイトリンクを生成します。
+このMCPサーバーは、Amazon商品のURLを受け取り、指定されたアフィリエイトタグを付与したアフィリエイトリンクを生成します。シンプルで使いやすいインターフェースを提供します。
 
 ## 🚀 機能
 
