@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.svg" alt="Amazon Affiliate Tool MCP" width="800">
+</p>
+
 # 🛍️ Amazon Affiliate Tool MCP
 
 Amazon商品URLをアフィリエイトリンクに変換するMCPサーバー
