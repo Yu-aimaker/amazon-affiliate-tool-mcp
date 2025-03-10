@@ -63,4 +63,4 @@ const result = await useMcpTool('amazon-affiliate-tool', 'generate_affiliate_lin
 
 ## 📄 ライセンス
 
-MITライセンスの下で公開されています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
+このプロジェクトは[MIT License](LICENSE)の下で公開されています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
